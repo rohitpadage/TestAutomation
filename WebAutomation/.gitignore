@@ -1,0 +1,17 @@
+/bin/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven build folder
+target/
+
+# TestNG reports
+test-output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
